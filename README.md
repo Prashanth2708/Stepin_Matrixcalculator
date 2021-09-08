@@ -3,8 +3,8 @@
 
 ![Banner](https://lh3.googleusercontent.com/ImPrfMGIkmizNp3XxmZSN562XES9X_aNuHEjhmp0PVZrxpWrwMZ90Y4j5j4QRZRLmYE)
 
-
-
+![codescore](https://www.code-inspector.com/project/28343/score/svg)
+![codegrade](https://www.code-inspector.com/project/28343/status/svg)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
