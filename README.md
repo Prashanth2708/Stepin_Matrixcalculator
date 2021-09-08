@@ -1,11 +1,8 @@
 # MATRIX CALCULATOR
 ### Miniproject 
-![Banner](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/1_Requirements/Matrix.png)
 
+![Banner](https://lh3.googleusercontent.com/ImPrfMGIkmizNp3XxmZSN562XES9X_aNuHEjhmp0PVZrxpWrwMZ90Y4j5j4QRZRLmYE)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/CodeQuality_Dynamic.yml) | [![Unity - Unit Testing](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/unity.yml/badge.svg)](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/hemanthasapu/256889-miniproject-ltts/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
@@ -20,7 +17,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`256889` | Hemanth A | F_01, F_02, F_03, F_04, F_05, F_06, F_07   | None    | None   |7  |7    
+`99006221` | Prashanth Reddy Rajandla | F_01, F_02, F_03, F_04, F_05, F_06, F_07   | None    | None   |7  |7    
 
 | Feature Id | Feature |
 | -----------|---------|
