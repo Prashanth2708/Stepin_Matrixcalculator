@@ -1,9 +1,9 @@
 /**
  * @file project_main.c
- * @author Hemanth A (hemanth.ec17@bmsce.ac.in)
+ * @author Prashanth Reddy Rajandla
  * @brief  This is the main program where the project is run
  * @version 0.1
- * @date 2021-04-15
+ * @date 2021-09-08
  * 
  * @copyright Copyright (c) 2021
  * 
