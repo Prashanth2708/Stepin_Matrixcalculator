@@ -6,6 +6,7 @@
 ![codescore](https://www.code-inspector.com/project/28343/score/svg)
 ![codegrade](https://www.code-inspector.com/project/28343/status/svg)
 [![C/C++ CI - Build Status](https://github.com/Prashanth2708/Stepin_Matrixcalculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Prashanth2708/Stepin_Matrixcalculator/actions/workflows/c-cpp.yml)
+[![Contribution Check - Git Inspector](https://github.com/Prashanth2708/Stepin_Matrixcalculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Prashanth2708/Stepin_Matrixcalculator/actions/workflows/gitinspector.yml)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
